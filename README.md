@@ -1,5 +1,5 @@
 # r-programming
 
-coursera课程笔记&习题答案
+coursera在线课程"R Programming"笔记&习题答案
 
-[online course](https://www.coursera.org/learn/r-programming/)
+[R Programming](https://www.coursera.org/learn/r-programming/)
