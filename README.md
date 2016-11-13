@@ -1,4 +1,4 @@
-# r-programming
+# R-Programming
 
 coursera《R Programming》笔记&习题
 
